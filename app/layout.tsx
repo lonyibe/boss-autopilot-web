@@ -2,9 +2,9 @@ import './globals.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'LonyiTrade — Meet & Trade Locally',
+  title: 'LonyiDev — Clean Modern Website',
   description:
-    'Buy and sell items locally with secure meetups, in-app chat, reputation, and zero online payments.',
+    'LonyiDev temporary modern website preview for testing.'
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
